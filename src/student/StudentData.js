@@ -73,9 +73,9 @@ const StudentData = () => {
                                 </tr>
                             </thead>
                            {
-                           data && data.map((stu, index)=>{
+                             data.map((stu)=>{
                                 return(
-                                    <tr key={index}>
+                                    <tr>
                                         <td>{stu.name}</td>
                                         <td>{stu.email}</td>
                                         <td>{stu.address}</td>
