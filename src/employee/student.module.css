@@ -1,0 +1,18 @@
+.bg_image{
+    background-image: url('https://t3.ftcdn.net/jpg/03/69/00/58/240_F_369005893_UYbUUUHDiB0HT7vs7EpO0JZ4vf830R5K.jpg');
+    padding: 20px 0px;
+    margin-bottom: 15px;
+}
+.bg_image h4, .bg_image ol li a,
+.bg_image h4, .bg_image ol li{
+    color: white !important;
+}
+
+.bg_image ol li::before{
+    color: white !important;
+}
+
+/* .bx_shadow{ */
+    /* box-shadow:4px 3px 5px 2px rgb(rgb(234, 0, 255), green, blue) !important; */
+    /* padding: 30px;
+} */

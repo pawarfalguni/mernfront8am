@@ -1,0 +1,11 @@
+.footer{
+    background-color: blueviolet;
+    padding: 25px 0px;
+}
+.footer p,
+.footer p a{
+    color: white;
+}
+.footer p{
+    margin-bottom: 0px;
+}
